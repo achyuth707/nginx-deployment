@@ -1,6 +1,6 @@
 # Nginx Deployment on Minikube
 
-This repository contains the configuration files and instructions for deploying an Nginx web server on Minikube. The setup includes a ConfigMap to manage the index.html file and a Kubernetes Service to expose the Nginx deployment.
+This repo contains the configuration files and instructions for deploying an Nginx web server on Minikube. The setup includes a ConfigMap to manage the index.html file and a Kubernetes Service to expose the Nginx deployment.
 
 ## Prerequisites
 
